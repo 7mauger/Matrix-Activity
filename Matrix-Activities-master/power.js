@@ -18,4 +18,4 @@ function power(mtrx,p){
 }
 
 //testing code
-console.log(power(A,10));
+console.log(power(A,10)());
